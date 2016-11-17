@@ -1,1 +1,1 @@
-# stepik-api-scripts
+# stepik-scripts
